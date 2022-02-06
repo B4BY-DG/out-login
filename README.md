@@ -24,7 +24,7 @@ python2 SSB.py
 
 
 <p align="center">
- <img src="https://github.com/Sarfraz-Baloch/out-login/blob/main/Screenshot_20210919-204827.png" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Sarfraz-Baloch/out-login/blob/main/Screenshot_20220206-121438.jpg" width="640" title="Menu" alt="Menu">
  
 
 ### CLONING ###
