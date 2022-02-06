@@ -6,16 +6,26 @@
  
 ![GitHub followers](https://img.shields.io/github/followers/Sarfraz-Baloch?style=for-the-badge)
 
+Jin Ko pata nahe ha enter code Kya dalna ha too enter code mn Pakistani Sim code dalna ha for example (00) 
+
 #INSTALLATION
 
 pkg update
+
 pkg upgrade
+
 pip2 install requests
+
 pip2 install mechanize
+
 pip2 install bs4
+
 rm -rf out-login
+
 git clone https://github.com/Sarfraz-Baloch/out-login.git
+
 cd out-login
+
 python2 SSB.py
 
 #TOOL_USEr_Name_(Sarfraz):-!
